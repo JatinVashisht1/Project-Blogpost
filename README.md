@@ -14,6 +14,7 @@
 - It provides features like user authentication and authorization.
 - Users can easily cread, read, update and delete the blogs.
 - The web-app provides a platform for social networking for its users.
+- Pushed from random_branch
   
 ## Techical Aspect
 - The front-end of the app will be made in HTML, CSS and JavaScript.
