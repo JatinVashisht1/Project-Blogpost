@@ -29,6 +29,7 @@
 ## Contributors
 - [@Jatin Vashisht](https://github.com/jatinvashisht1)
 - [@Priyansh Singh](https://github.com/priyanshsingh)
+- [@Tavishi](https://github.com/tavishivss)
 
 ## Resources to learn more
 - [node.js](https://nodejs.dev/learn/introduction-to-nodejs)
