@@ -30,6 +30,7 @@
 - [@Jatin Vashisht](https://github.com/jatinvashisht1)
 - [@Priyansh Singh](https://github.com/priyanshsingh)
 - [@Tavishi](https://github.com/tavishivss)
+- [@Mansi Singh Rajput](https://github.com/MansiSinghRajput1602)
 
 ## Resources to learn more
 - [node.js](https://nodejs.dev/learn/introduction-to-nodejs)
