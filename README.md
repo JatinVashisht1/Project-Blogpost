@@ -8,7 +8,7 @@
   - [Resources to learn more](#resources-to-learn-more)
 
 ---
-# Project Blogpost
+# Project BlogPost
 ---
 ## Description
 - This is a web-app where users can upload and read blogs.
